@@ -1,0 +1,13 @@
+# macOS system
+.DS_Store
+
+# Python environment
+.env
+venv/
+__pycache__/
+
+# Backup files
+*.twbak
+
+# VS Code settings
+.vscode/
